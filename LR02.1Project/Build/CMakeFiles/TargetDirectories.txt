@@ -1,0 +1,3 @@
+C:/Users/KatePC/Desktop/Полевой/LR02.1/LR02.1Project/Build/CMakeFiles/LR02.1.dir
+C:/Users/KatePC/Desktop/Полевой/LR02.1/LR02.1Project/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/KatePC/Desktop/Полевой/LR02.1/LR02.1Project/Build/CMakeFiles/ZERO_CHECK.dir
