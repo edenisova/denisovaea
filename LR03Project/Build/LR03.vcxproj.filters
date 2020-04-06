@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\KatePC\Desktop\Полевой\LR03\LR03Project\src\Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\KatePC\Desktop\Полевой\LR03\LR03Project\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{541F5DAD-D5F1-3C5A-B6BE-9AE4F9572049}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

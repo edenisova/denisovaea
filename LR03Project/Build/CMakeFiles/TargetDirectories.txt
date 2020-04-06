@@ -1,0 +1,3 @@
+C:/Users/KatePC/Desktop/Полевой/LR03/LR03Project/Build/CMakeFiles/LR03.dir
+C:/Users/KatePC/Desktop/Полевой/LR03/LR03Project/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/KatePC/Desktop/Полевой/LR03/LR03Project/Build/CMakeFiles/ZERO_CHECK.dir
